@@ -1,5 +1,5 @@
 <?php
 const SERVER = 'localhost';
-const BDD = 'root';
+const BDD = 'sae301';
 const USER = 'root';
 const PASSWORD = '';
